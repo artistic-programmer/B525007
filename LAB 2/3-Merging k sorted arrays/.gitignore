@@ -1,0 +1,13 @@
+# Executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Windows / OS junk
+Thumbs.db
+.DS_Store
+
+# Temporary files
+scratch/
+*.tmp

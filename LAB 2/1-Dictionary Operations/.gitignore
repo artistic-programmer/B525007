@@ -1,0 +1,12 @@
+# Executables and build artifacts
+*.exe
+*.o
+*.obj
+benchmark
+
+# OS and IDE temporary files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
