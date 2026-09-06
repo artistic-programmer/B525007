@@ -10,6 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e93c5bc-0a78-42d6-a2af-e7886397c166" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/B525007.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/B525007.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +51,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.solution.c (1).executor": "Run",
+    "C/C++ File.solution.c (2).executor": "Run",
+    "C/C++ File.solution.c (3).executor": "Run",
+    "C/C++ File.solution.c (4).executor": "Run",
+    "C/C++ File.solution.c.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,9 +70,51 @@
     "ignore.virus.scanning.warn.message": "true",
     "nodejs_package_manager_path": "npm",
     "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="C/C++ File.solution.c (4)">
+    <configuration name="solution.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="B525007" TARGET_NAME="solution.c" CONFIG_NAME="solution.c">
+      <option name="sourceFile" value="LAB 4\2_Application_of_Sorting_II\solution.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution.c (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="B525007" TARGET_NAME="solution.c" CONFIG_NAME="solution.c">
+      <option name="sourceFile" value="LAB 4\3_Application_of_Sorting_III\solution.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution.c (3)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="B525007" TARGET_NAME="solution.c" CONFIG_NAME="solution.c">
+      <option name="sourceFile" value="LAB 4\5_Application_of_Sorting_V\solution.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution.c (4)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="B525007" TARGET_NAME="solution.c" CONFIG_NAME="solution.c">
+      <option name="sourceFile" value="LAB 4\6_Application_of_Sorting_VI\solution.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="B525007" TARGET_NAME="solution.c" CONFIG_NAME="solution.c">
+      <option name="sourceFile" value="LAB 4\1_Application_of_Sorting_I\solution.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.solution.c (4)" />
+        <item itemvalue="C/C++ File.solution.c (3)" />
+        <item itemvalue="C/C++ File.solution.c (2)" />
+        <item itemvalue="C/C++ File.solution.c (1)" />
+        <item itemvalue="C/C++ File.solution.c" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6e93c5bc-0a78-42d6-a2af-e7886397c166" name="Changes" comment="" />
@@ -75,6 +124,7 @@
       <updated>1785917231566</updated>
       <workItem from="1785917234594" duration="237000" />
       <workItem from="1786520465916" duration="1134000" />
+      <workItem from="1788337355683" duration="3501000" />
     </task>
     <servers />
   </component>
